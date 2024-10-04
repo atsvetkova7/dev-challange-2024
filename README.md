@@ -1,5 +1,6 @@
 Basic functional requirements
 
+
 1. Interface:
 Create a simple, intuitive user interface.
 The visual style should be based on the MFA website: https://mfa.gov.ua/
